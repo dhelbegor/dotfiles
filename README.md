@@ -1,0 +1,2 @@
+# dotfiles
+Arquivo de configuração.
