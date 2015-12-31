@@ -1,2 +1,4 @@
 # dotfiles
-Arquivo de configuração.
+
+
+Arquivos de configuração para pós-instalação do ubuntu.
